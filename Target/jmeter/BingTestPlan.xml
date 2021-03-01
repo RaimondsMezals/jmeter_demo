@@ -1,0 +1,3268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="699" it="0" lt="21" ct="11" ts="1614618911892" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="653563" sby="6605" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="21" it="0" lt="21" ct="11" ts="1614618911892" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-1" dt="" by="275" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="231" it="0" lt="65" ct="17" ts="1614618911913" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="471586" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912146" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912157" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912167" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912176" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912185" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912195" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912204" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912214" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912224" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912233" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912243" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912253" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912263" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912272" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912282" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="26" it="0" lt="26" ct="15" ts="1614618912291" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="26" it="0" lt="26" ct="16" ts="1614618912317" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="27" it="0" lt="27" ct="16" ts="1614618912344" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="1870" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912371" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912381" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="1511" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912390" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912400" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="8004" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912411" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912422" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="5542" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912432" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="12068" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="37" it="0" lt="37" ct="27" ts="1614618912442" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="10295" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912479" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="13422" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912490" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="8791" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912500" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="12544" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618912510" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="11839" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912522" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="10284" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912533" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="9769" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912543" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="13201" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912553" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912563" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-1" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912573" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912582" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-1" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="720" it="0" lt="19" ct="10" ts="1614618912392" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="647259" sby="6789" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="19" it="0" lt="19" ct="10" ts="1614618912392" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-2" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="259" it="0" lt="91" ct="10" ts="1614618912411" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="454193" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912672" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912683" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912692" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912701" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912710" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912720" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912730" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912739" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912749" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912759" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912768" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618912779" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912788" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912798" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912808" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618912819" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="23" it="0" lt="23" ct="12" ts="1614618912838" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="1624" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618912861" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="1870" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912881" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="1500" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912891" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="1511" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912901" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618912911" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="8004" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912923" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="9588" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618912934" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="5542" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912946" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="12068" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="25" it="0" lt="25" ct="11" ts="1614618912956" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="10293" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618912981" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="11097" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.Pa7TDjKaKcrlMOiz86w2QgAAAA?w=191&amp;h=258&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618912993" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="13422" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618913003" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="8789" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913016" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="12544" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913027" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="11839" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913037" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="10284" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913048" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="9769" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913060" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="13201" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913072" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913082" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-2" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913092" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913102" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-2" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="1008" it="0" lt="19" ct="10" ts="1614618912893" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="651114" sby="6741" ng="3" na="4">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="19" it="0" lt="19" ct="10" ts="1614618912893" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-3" dt="" by="277" sby="135" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="323" it="0" lt="59" ct="9" ts="1614618912912" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="452605" sby="139" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913237" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="4618" sby="138" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913247" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1378" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913257" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1504" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913267" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1935" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913278" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1115" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913287" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1797" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913297" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1559" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913306" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1945" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913316" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1507" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913326" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1547" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913335" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1212" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913345" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="7546" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="0" ts="1614618913357" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1774" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="14" it="0" lt="14" ct="0" ts="1614618913376" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="4628" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913390" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="2632" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="9" ts="1614618913401" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="1602" sby="203" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618913422" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="1626" sby="198" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="11" ts="1614618913441" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="1868" sby="200" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913463" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="1502" sby="198" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913474" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="1509" sby="201" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913485" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="2006" sby="200" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913496" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="8624" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.EsoR20WO_E8HfZtMLkrz0wHaKV?w=191&amp;h=267&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="24" it="0" lt="24" ct="10" ts="1614618913507" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="9056" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.HcsuvLpn7kc96t419gyEowHaJ2?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913531" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="14825" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.L1QXa1QKn7gnzkvMDOnvTQHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913543" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="9921" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.adHmE17UkG63EfXTM9I2jQHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="49" it="0" lt="49" ct="0" ts="1614618913554" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="12771" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.of3GhMXfI54Ph7UwcNpJzAHaLG?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618913603" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="8753" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.kfM0o9LlqjguklcRKRIJ9AHaFM?w=191&amp;h=134&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913616" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="10939" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.1n9k781Ka4HOVb4SU1QZ2wHaKR?w=191&amp;h=265&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913628" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="9590" sby="232" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913639" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="10195" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.rXMLWPsHYGm9nAH45VumugHaLH?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="161" it="0" lt="161" ct="0" ts="1614618913650" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="11755" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.gmgwhlkLwysdPZc6ONrXZAHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="12" ct="0" ts="1614618913811" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="16572" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.K3gtvVSgdhJXmrzRDHqMuwHaLk?w=191&amp;h=298&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618913824" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="4446" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8qmBIie_ZiV3refKnaZ0zgHaE8?w=191&amp;h=128&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618913837" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="14440" sby="184" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.te3EkY5jDmgT539U_WntSgHaKA?w=191&amp;h=259&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913850" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="484" sby="141" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="0" ts="1614618913861" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-3" dt="bin" by="938" sby="150" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913880" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="1111" sby="149" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913891" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-3" dt="text" by="7002" sby="149" ng="3" na="4">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="706" it="0" lt="19" ct="9" ts="1614618913393" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="643962" sby="6741" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618913393" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-4" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="252" it="0" lt="63" ct="9" ts="1614618913412" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="452820" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913667" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913677" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="9" ct="0" ts="1614618913686" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913696" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913707" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="8" it="0" lt="8" ct="0" ts="1614618913716" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913724" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913733" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913743" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913752" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913761" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913770" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913779" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618913788" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913797" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618913807" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="1602" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="12" ts="1614618913828" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="10" ts="1614618913850" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="1868" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913871" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913882" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="1509" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913894" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="2006" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913906" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="17698" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.g7UsmLVBnR3UpItDW4gyewHaKH?w=191&amp;h=262&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618913917" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="10421" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.TOtBcrj4WJXKXTYlSyblVwHaJ3?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618913929" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="8296" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.5F23wAMsyofAlK23B9k2cAHaGu?w=191&amp;h=174&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="14" it="0" lt="13" ct="0" ts="1614618913940" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="10582" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.ciPFHuS96geBHdgHycPcuwHaLH?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913954" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="14" it="0" lt="14" ct="0" ts="1614618913964" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="6363" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.hseHtGNNlucxKIpOy_tnVwHaE6?w=191&amp;h=127&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618913978" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="11933" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.fTRWkLO6uYTsnYovhLdL9QHaJ3?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618913988" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="8860" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.AwNJl6mAXIDZMOQ-Gw_0bgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914001" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="10290" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.cxBjCrLa_fc5eTaZT898EwHaLL?w=191&amp;h=289&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618914011" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="3820" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.dhaPsNjNlQYj9GZXnttJzwHaEn?w=191&amp;h=119&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914023" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="10267" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.LyPeJ-UZgzM_9onEV_Uh-AAAAA?w=188&amp;h=331&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914034" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="13037" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.mwFQ1UN0EAz53cav_77OvQHaKl?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="15" it="0" lt="15" ct="0" ts="1614618914046" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="13363" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.6JIg7z02Lfxzk_Qoch4R9wHaL9?w=191&amp;h=309&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914061" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914071" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-4" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914081" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914090" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-4" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="685" it="0" lt="33" ct="8" ts="1614618913894" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="655649" sby="6605" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="33" it="0" lt="33" ct="8" ts="1614618913894" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-5" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="237" it="0" lt="66" ct="14" ts="1614618913927" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="473670" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914167" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914177" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914186" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914196" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914205" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914214" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914223" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914233" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914243" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914252" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914263" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914273" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914284" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914293" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914304" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="11" ts="1614618914313" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618914334" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618914353" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="1870" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914374" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914383" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="1511" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914393" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914403" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="8004" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914414" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914424" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="5542" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914433" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="12068" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="8" ts="1614618914444" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="10295" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914463" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="13422" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914474" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="8791" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618914485" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="12544" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914497" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="11839" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914507" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="10284" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914518" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="9769" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914529" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="13201" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914539" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914550" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-5" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914560" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914570" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-5" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="822" it="0" lt="20" ct="11" ts="1614618914393" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="646826" sby="6789" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="20" it="0" lt="20" ct="11" ts="1614618914393" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-6" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="227" it="0" lt="58" ct="10" ts="1614618914414" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="453775" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914644" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914654" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914663" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914673" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914682" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914691" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914700" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914709" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914718" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914727" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914736" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914746" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914755" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914765" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914774" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618914785" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="10" ts="1614618914805" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="1624" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="10" ts="1614618914826" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="1868" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618914848" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="1500" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914860" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="1509" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618914871" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="40" it="0" lt="40" ct="0" ts="1614618914880" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="8003" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914920" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="9588" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618914930" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="5540" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914943" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="12068" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="11" ts="1614618914953" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="10293" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618914975" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="11097" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.Pa7TDjKaKcrlMOiz86w2QgAAAA?w=191&amp;h=258&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="10" ct="0" ts="1614618914987" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="13420" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618914998" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="8789" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="55" it="0" lt="55" ct="0" ts="1614618915008" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="12543" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915063" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="11839" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618915073" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="10282" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="79" it="0" lt="79" ct="0" ts="1614618915086" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="9768" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915165" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="13199" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915176" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915186" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-6" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915195" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915204" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-6" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="724" it="0" lt="21" ct="10" ts="1614618914892" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="646776" sby="6789" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="21" it="0" lt="21" ct="10" ts="1614618914892" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-7" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="250" it="0" lt="60" ct="9" ts="1614618914913" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="453766" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915166" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="4616" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915176" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1376" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915185" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1502" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915195" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1933" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915204" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1113" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915213" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1795" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915223" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1557" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915232" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1943" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915241" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1505" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915251" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1545" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915261" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1210" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915272" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="7544" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915282" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1772" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915292" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="4626" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915302" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="2630" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="9" ts="1614618915312" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="1602" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="10" ts="1614618915334" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="9" ts="1614618915355" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="1868" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915376" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915386" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="1509" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915397" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="2006" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915409" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="8002" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915420" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618915430" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="5540" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915443" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="12066" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618915455" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="10293" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915476" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="11099" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.Pa7TDjKaKcrlMOiz86w2QgAAAA?w=191&amp;h=258&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915486" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="13420" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915498" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="8789" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618915509" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="12542" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="14" it="0" lt="14" ct="0" ts="1614618915522" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="11837" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618915536" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="10282" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915549" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="9767" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915560" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="13199" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915572" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="482" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915583" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-7" dt="bin" by="936" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915594" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="1109" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915604" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-7" dt="text" by="7000" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="773" it="0" lt="20" ct="10" ts="1614618915392" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="647128" sby="6789" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="20" it="0" lt="20" ct="10" ts="1614618915392" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-8" dt="" by="275" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="299" it="0" lt="113" ct="9" ts="1614618915412" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="454090" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915713" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="4616" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915724" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1376" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618915734" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1502" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915746" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1933" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915756" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1113" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915767" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1795" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915777" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1557" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618915787" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1943" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915796" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1505" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915807" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1545" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915817" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1210" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915827" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="7544" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915838" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1772" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915849" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="4626" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915859" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="2630" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="10" ts="1614618915870" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="11" ts="1614618915890" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="35" it="0" lt="35" ct="23" ts="1614618915911" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="1870" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915946" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915957" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="1511" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915967" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915977" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="8004" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.EU8SktG5ZMii70PgLSZEiQHaIF?w=191&amp;h=209&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618915988" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618915998" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="5542" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.1BLPgeOcciiQS0BjG1qktgHaHm?w=191&amp;h=196&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916009" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="12068" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.DYS2GCbA20jAS2n271fVRgHaLI?w=191&amp;h=288&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618916019" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="10295" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.dxS3hmLb4wG2kgWr7YmErwAAAA?w=191&amp;h=260&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916039" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="11099" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.Pa7TDjKaKcrlMOiz86w2QgAAAA?w=191&amp;h=258&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916050" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="13422" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.Xu7KS9rBARpSC1LcidhKKwHaMY?w=191&amp;h=320&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916060" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="8791" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.0MQsBA0jAi0NTv_rKmbTCwAAAA?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916070" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="12544" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.87hD7hGp7y1lHaF0HzYyrQHaK7?w=191&amp;h=282&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916081" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="11839" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8H5mYRoTtJyhQ1g-Fn5cmQHaLB?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916092" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="10284" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.p-oQ3KFc_2cndtaEoIMRrgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916103" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="9769" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.QKHJvMZdRmHVFFuH-qNyCwHaKk?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916114" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="13201" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Teacup+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916125" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="482" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916135" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-8" dt="bin" by="936" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916145" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="1109" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916155" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-8" dt="text" by="7000" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="699" it="0" lt="20" ct="10" ts="1614618915892" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="650917" sby="6741" ng="2" na="3">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="20" it="0" lt="20" ct="10" ts="1614618915892" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-9" dt="" by="277" sby="135" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="241" it="0" lt="71" ct="22" ts="1614618915912" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="452390" sby="139" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916155" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="4618" sby="138" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916166" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1378" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916175" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1504" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916184" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1935" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916194" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1115" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916204" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1797" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916213" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1559" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916223" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1945" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916232" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1507" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916242" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1547" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916252" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1212" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916262" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="7546" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916272" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1774" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916282" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="4628" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916292" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="2632" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618916302" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="1604" sby="203" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="9" ts="1614618916322" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="1626" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="21" it="0" lt="21" ct="10" ts="1614618916342" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="1870" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916363" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="1502" sby="198" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618916373" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="1511" sby="201" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916386" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="2008" sby="200" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916396" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="8626" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.EsoR20WO_E8HfZtMLkrz0wHaKV?w=191&amp;h=267&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="22" it="0" lt="22" ct="9" ts="1614618916406" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="9056" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.HcsuvLpn7kc96t419gyEowHaJ2?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618916428" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="14825" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.L1QXa1QKn7gnzkvMDOnvTQHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916441" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="9923" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.adHmE17UkG63EfXTM9I2jQHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916452" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="12772" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.of3GhMXfI54Ph7UwcNpJzAHaLG?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916463" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="8755" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.kfM0o9LlqjguklcRKRIJ9AHaFM?w=191&amp;h=134&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916474" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="10939" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse2.mm.bing.net/th/id/OIP.1n9k781Ka4HOVb4SU1QZ2wHaKR?w=191&amp;h=265&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916485" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="9590" sby="232" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618916496" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="10195" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.rXMLWPsHYGm9nAH45VumugHaLH?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916508" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="11754" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.gmgwhlkLwysdPZc6ONrXZAHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916518" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="16572" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.K3gtvVSgdhJXmrzRDHqMuwHaLk?w=191&amp;h=298&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916529" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="4448" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.8qmBIie_ZiV3refKnaZ0zgHaE8?w=191&amp;h=128&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916539" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="14442" sby="184" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.te3EkY5jDmgT539U_WntSgHaKA?w=191&amp;h=259&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916550" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="484" sby="141" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916561" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-9" dt="bin" by="938" sby="150" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916570" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="1111" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916582" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-9" dt="text" by="7002" sby="149" ng="2" na="3">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+<httpSample t="711" it="0" lt="18" ct="9" ts="1614618916393" s="true" lb="Kittens" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="644278" sby="6741" ng="1" na="1">
+  <assertionResult>
+    <name>Check 200</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <httpSample t="18" it="0" lt="18" ct="9" ts="1614618916393" s="true" lb="Kittens-0" rc="301" rm="Moved Permanently" tn="Bing Various 2-10" dt="" by="277" sby="135" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="247" it="0" lt="74" ct="19" ts="1614618916411" s="true" lb="Kittens-1" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="453132" sby="139" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916660" s="true" lb="Kittens-2" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="4616" sby="138" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/favicon-2x.ico</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916671" s="true" lb="Kittens-3" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1376" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/XvRHqJwJt19aXQca73hQTfvNMxk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916682" s="true" lb="Kittens-4" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1502" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fdVZU4ttbw8NDRm6H3I5BW3_vCo.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916692" s="true" lb="Kittens-5" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1933" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/4L4QdyjTv0HYE2Ig2ol9eYoqxg8.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916701" s="true" lb="Kittens-6" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1113" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/Fsa_OI0AplCnVoXGca8ALOo0S0s.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916711" s="true" lb="Kittens-7" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1795" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/UYtUYDcn1oZlFG-YfBPz59zejYI.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916722" s="true" lb="Kittens-8" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1557" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/KC_nX2_tPPyFvVw1RK20Yu1FyDk.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916733" s="true" lb="Kittens-9" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1943" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/NnFHhz2jL6yzChtIhaB5IIVKY5k.svg</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916743" s="true" lb="Kittens-10" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1505" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/jZQUtjbvBNTFVhjuc1I6KRsoYFQ.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916753" s="true" lb="Kittens-11" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1545" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/DGRMR9NeVlyY3l85HlsGXYkE8_s.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916764" s="true" lb="Kittens-12" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1210" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/K1lFw1Mm-fGE5oJrZ4Sbf44j-54.css</java.net.URL>
+  </httpSample>
+  <httpSample t="14" it="0" lt="14" ct="0" ts="1614618916775" s="true" lb="Kittens-13" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="7544" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/IM8yRggr6PIeHc40CX57dqaq-lc.css</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618916789" s="true" lb="Kittens-14" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1772" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/dPivqrU3cqe5fmsrlV6oVXWN6J8.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916801" s="true" lb="Kittens-15" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="4626" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/fWNNQ1PnvP0-d6lD80KSmXG3Q4o.css</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916812" s="true" lb="Kittens-16" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="2630" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/kFAqShRrnkQMbH6NYLBYoJ3lq9s.png</java.net.URL>
+  </httpSample>
+  <httpSample t="20" it="0" lt="20" ct="10" ts="1614618916823" s="true" lb="Kittens-17" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="1604" sby="203" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Really+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="19" it="0" lt="19" ct="9" ts="1614618916843" s="true" lb="Kittens-18" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="1642" sby="198" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Ginger+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="23" it="0" lt="23" ct="12" ts="1614618916862" s="true" lb="Kittens-19" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="1870" sby="200" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Too+Cute+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916885" s="true" lb="Kittens-20" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="1502" sby="198" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Fluffy+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916895" s="true" lb="Kittens-21" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="1511" sby="201" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th?q=Cute+Baby+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="9" it="0" lt="9" ct="0" ts="1614618916906" s="true" lb="Kittens-22" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="2008" sby="200" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th?q=Precious+Kittens&amp;w=42&amp;h=42&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7&amp;mkt=en-GB&amp;adlt=moderate</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916915" s="true" lb="Kittens-23" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="17700" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.g7UsmLVBnR3UpItDW4gyewHaKH?w=191&amp;h=262&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916926" s="true" lb="Kittens-24" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="10423" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.TOtBcrj4WJXKXTYlSyblVwHaJ3?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916936" s="true" lb="Kittens-25" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="8298" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.5F23wAMsyofAlK23B9k2cAHaGu?w=191&amp;h=174&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916947" s="true" lb="Kittens-26" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="10584" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.ciPFHuS96geBHdgHycPcuwHaLH?w=191&amp;h=286&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916957" s="true" lb="Kittens-27" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="9590" sby="232" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th?q=Little+Baby+Kittens&amp;dc=3&amp;w=100&amp;h=100&amp;c=1&amp;rs=1&amp;pid=InlineBlock&amp;mkt=en-GB&amp;adlt=moderate&amp;t=1&amp;mw=240&amp;sr=3&amp;shs=2</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618916968" s="true" lb="Kittens-28" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="6365" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.hseHtGNNlucxKIpOy_tnVwHaE6?w=191&amp;h=127&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618916980" s="true" lb="Kittens-29" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="11933" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.fTRWkLO6uYTsnYovhLdL9QHaJ3?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618916991" s="true" lb="Kittens-30" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="8862" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.AwNJl6mAXIDZMOQ-Gw_0bgHaJ4?w=191&amp;h=255&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618917001" s="true" lb="Kittens-31" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="10292" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.cxBjCrLa_fc5eTaZT898EwHaLL?w=191&amp;h=289&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618917013" s="true" lb="Kittens-32" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="3822" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse4.mm.bing.net/th/id/OIP.dhaPsNjNlQYj9GZXnttJzwHaEn?w=191&amp;h=119&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618917026" s="true" lb="Kittens-33" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="10267" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.LyPeJ-UZgzM_9onEV_Uh-AAAAA?w=188&amp;h=331&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="13" it="0" lt="13" ct="0" ts="1614618917037" s="true" lb="Kittens-34" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="13037" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse3.mm.bing.net/th/id/OIP.mwFQ1UN0EAz53cav_77OvQHaKl?w=191&amp;h=272&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="12" it="0" lt="12" ct="0" ts="1614618917050" s="true" lb="Kittens-35" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="13365" sby="184" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://tse1.mm.bing.net/th/id/OIP.6JIg7z02Lfxzk_Qoch4R9wHaL9?w=191&amp;h=309&amp;c=7&amp;o=5&amp;pid=1.7</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618917062" s="true" lb="Kittens-36" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="482" sby="141" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/sa/simg/Flag_Feedback.png</java.net.URL>
+  </httpSample>
+  <httpSample t="11" it="0" lt="11" ct="0" ts="1614618917073" s="true" lb="Kittens-37" rc="200" rm="OK" tn="Bing Various 2-10" dt="bin" by="936" sby="150" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618917084" s="true" lb="Kittens-38" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="1109" sby="149" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/da3XTE4E24gCNAQJm5tKrqZDeuc.js</java.net.URL>
+  </httpSample>
+  <httpSample t="10" it="0" lt="10" ct="0" ts="1614618917094" s="true" lb="Kittens-39" rc="200" rm="OK" tn="Bing Various 2-10" dt="text" by="7000" sby="149" ng="1" na="1">
+    <assertionResult>
+      <name>Check 200 Sub</name>
+      <failure>false</failure>
+      <error>false</error>
+    </assertionResult>
+    <java.net.URL>http://www.bing.com/rp/BVRRZgrJAOx-_HOHkWyllv5vdF4.js</java.net.URL>
+  </httpSample>
+  <java.net.URL>http://www.bing.com/images/search?q=Kittens</java.net.URL>
+</httpSample>
+
+</testResults>
